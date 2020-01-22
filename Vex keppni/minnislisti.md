@@ -11,6 +11,6 @@
 9. Gera dagbók, hver nemandi með eina (skrá eftir hvern tíma)
 10. Ákveða hver gerir hvað nema allir forrita þ.e skiptast á
 11. Taka mynd af hóp og skrá nöfn
-12. Tak video af vélmenni í keppnisbraut
+12. Taka video af vélmenni í keppnisbraut
 13. Gera heimasíðu með öllu að ofan
 14. Sýna alla útreikninga og hönnunarteikningar tölvu eða handskrifað (viðauki)
