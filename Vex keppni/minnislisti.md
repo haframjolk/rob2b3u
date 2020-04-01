@@ -1,7 +1,7 @@
 # Minnislisti
 
 1. ~~Gera lýsingu á keppni (ekki reglur)mynd af keppnisbraut~~
-2. Skrá niður reglur keppni (myndir og texti)
+2. ~~Skrá niður reglur keppni (myndir og texti)~~
 3. Gera lýsingu á Vélmenni (mynd)
 4. ~~Gera lýsingu á vélbúnaði (allir mótorar og skynjarar) myndir.~~
 5. ~~Skrá forritunarreglur~~
