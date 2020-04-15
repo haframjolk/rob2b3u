@@ -4,15 +4,6 @@ title: Um
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Á þessum vef má skoða skýrslu um vinnslu, gengi og framvindu viðfangsefnis verklega vélmennaáfangans ROBO3RF05BU-Hát (Vélmenni II) á tölvubraut í Tækniskólanum, vorönn 2020.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Höfundar vefs og liðsmenn eru [Reyn&nbsp;Alpha](https://github.com/haframjolk), [Victor&nbsp;Wahid](https://github.com/Victor-733) og [Birkir&nbsp;Arndal](https://github.com/birkirarndal).
